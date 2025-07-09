@@ -2482,8 +2482,8 @@
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ohb6AC2M0z5cs_CklGwc-14" value="Associative table for patients table and doctors table" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="-2020" width="180" height="30" as="geometry" />
+        <mxCell id="ohb6AC2M0z5cs_CklGwc-14" value="Associative table for patients table and doctors table" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-2190" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ohb6AC2M0z5cs_CklGwc-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.239;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.687;exitY=0.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="slNytfLPTx_QfeoJ-YCl-38" target="ohb6AC2M0z5cs_CklGwc-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
