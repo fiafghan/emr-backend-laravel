@@ -2485,6 +2485,18 @@
         <mxCell id="ohb6AC2M0z5cs_CklGwc-14" value="Associative table for patients table and doctors table" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="110" y="-2020" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ohb6AC2M0z5cs_CklGwc-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.006;entryY=0.767;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="slNytfLPTx_QfeoJ-YCl-39" target="ohb6AC2M0z5cs_CklGwc-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="-1630" as="sourcePoint" />
+            <mxPoint x="360" y="-1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ohb6AC2M0z5cs_CklGwc-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="wGC3oBP80a2BaYjRNimY-97" target="ohb6AC2M0z5cs_CklGwc-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="-1630" as="sourcePoint" />
+            <mxPoint x="360" y="-1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
